@@ -1,27 +1,25 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
-*Contactos PyVe*
-
-- General
-	- [HomePage](http://python.org.ve)
-	- [Git](https://github.com/pyve)
-- Redes Sociales
-    - [Facebook](https://www.facebook.com/python.ve)
-    - [google plus](https://plus.google.com/communities/113174766589037119283)
-    - [linkedin](https://www.linkedin.com/company/fundaci%C3%B3n-python-de-venezuela)
-    - [telegram](https://telegram.me/joinchat/046ea0cf01b34af4ea68c255517e0806)
-- Sala de Chat
-    - [slack](https://pyve.slack.com/)
+- [Awesome PythonVe](#awesome-python-ve)
+    - [RESTful API](#restful-api)
+    - [Django resources](#django-resources)
 
 - - -
 
-## Desarrollos en la fundacion
+## RESTful API
 
-*Gestion pagina web*
+*Libraries for developing RESTful APIs.*
+* [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
+* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) - Geographic add-ons for Django Rest Framework.
 
-- Propuestas
-    - [site](https://github.com/pyve/site)
-    - [pelican](http://atmantree.github.io/pyve-site-proposal/)
+
+- - -
+
+## Django resources
+
+*Resources for Django.*
+* [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) - Django model mixins and utilities.
+
 
 ## License
 
