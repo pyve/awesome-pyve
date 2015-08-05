@@ -3,6 +3,7 @@
 - [Awesome PythonVe](#awesome-python-ve)
     - [RESTful API](#restful-api)
     - [Django resources](#django-resources)
+    - [Backend development resources](#backend-resources)
 
 - - -
 
@@ -19,13 +20,14 @@
 
 *Resources for Django.*
 * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) - Django model mixins and utilities.
+* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) - Distributed Task Queue (for use within Django).
 
 - - -
 
 ## Backend development resources
 
-*Tareas distribuidas.*
-* [Celery](http://www.celeryproject.org/) - [Celery docs](http://celery.readthedocs.org/en/latest/) - Celery permite realizar tareas distribuidas, lo que significa que se pueden ejecutar tareas en varios servidores. Las tareas son escritas en Python y pueden ser invocadas desde un programa principal de forma similar a como se invoca una función, pero la tarea es ejecutada en otra computadora, lo que permite distribuir el cómputo. Se usa en proyectos de informática y empresariales, permite escalar hacia los lados, agregando más servidores al sistema.
+*Resources for developing backend components and servers*
+* [celery](http://www.celeryproject.org/) - Distributed Task Queue
 
 
 ## License
