@@ -3,6 +3,7 @@
 - [Awesome PythonVe](#awesome-python-ve)
     - [RESTful API](#restful-api)
     - [Django resources](#django-resources)
+    - [Backend development resources](#backend-resources)
 
 - - -
 
@@ -19,6 +20,14 @@
 
 *Resources for Django.*
 * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) - Django model mixins and utilities.
+* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) - Distributed Task Queue (for use within Django).
+
+- - -
+
+## Backend development resources
+
+*Resources for developing backend components and servers*
+* [celery](http://www.celeryproject.org/) - Distributed Task Queue
 
 
 ## License
