@@ -29,6 +29,21 @@
 *Resources for developing backend components and servers*
 * [celery](http://www.celeryproject.org/) - Distributed Task Queue
 
+- - -
+
+## Database related resources
+
+### Connectors
+
+* [psycopg2](http://initd.org/psycopg/) - Psycopg is the most popular PostgreSQL adapter.
+* [pymongo](http://api.mongodb.org/python/current/) - MongoDB Python connector.
+
+### ORM tools
+
+* [SQLAlchemy][sqlalchemy] - SQL toolkit and Object Relational Mapper.
+* [Alembic](http://alembic.readthedocs.org/) - Lightweight database migration tool for usage with the [SQLAlchemy][sqlalchemy]
+
+[sqlalchemy]: http://www.sqlalchemy.org/
 
 ## License
 
