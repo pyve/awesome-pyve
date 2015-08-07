@@ -34,7 +34,7 @@ Aditivos geográficos para el marco de trabajo *Django*.
 
 - - -
 
-## Recurosos relacionados con las Bases de Datos
+## Recursos relacionados con las Bases de Datos
 
 ### Conectores
 
