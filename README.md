@@ -1,9 +1,10 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
-- [Awesome PythonVe](#awesome-python-ve)
-    - [RESTful API](#restful-api)
-    - [Django resources](#django-resources)
-    - [Backend development resources](#backend-resources)
+### Awesome PythonVe
+- [RESTful API](#restful-api)
+- [Django resources](#django-resources)
+- [Backend development resources](#backend-resources)
+- [Database related resources](#database-resources)
 
 - - -
 
