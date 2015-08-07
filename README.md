@@ -5,6 +5,7 @@
 - [Django resources](#django-resources)
 - [Backend development resources](#backend-resources)
 - [Database related resources](#database-resources)
+- [Blog posts](#blog-posts)
 
 - - -
 
@@ -45,6 +46,11 @@
 * [Alembic](http://alembic.readthedocs.org/) - Lightweight database migration tool for usage with the [SQLAlchemy][sqlalchemy]
 
 [sqlalchemy]: http://www.sqlalchemy.org/
+
+## Blog posts
+
+* [Drastically Improve Your Python: Understanding Python's Execution Model](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - This post will help you understand what's happening behind the scenes when you do common things like creating a variable or calling a function.
+
 
 ## License
 
