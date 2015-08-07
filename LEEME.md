@@ -1,41 +1,50 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
-- [Awesome PythonVe](#awesome-python-ve)
+- Índice:
     - [API REST](#api-rest)
     - [Recursos para Django](#recursos-para-django)
     - [Recursos para el desarrollo de Backends](#Recursos-para-el-desarrollo-de-Backends)
-    - [Recursos relacionados con las Bases de Datos](#recurosos-relacionados-con-las-bases-de-datos)
+    - [Recursos para el manejo de Bases de Datos](#recurosos-para-el-manejo-de-bases-de-datos)
+    - [Recursos para el despliegue de aplicaciones](#recurosos-para-el-despliegue-de-aplicaciones)
     - [Blog posts](#blog-posts)
 
 - - -
 
-## API REST
+## API RESTful
 
 *Bibliotecas para el desarrollo de APIs RESTful*
 * [django-rest-framework](http://www.django-rest-framework.org/) - Un conjunto
 poderoso y flexible de herramientas que facilita la construcción de *APIs* web.
 * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
 Aditivos geográficos para el marco de trabajo *Django*.
+* [flask](http://flask.pocoo.org/) – Flask es un microframework que sirve para
+construir aplicaciones web (entre ellas APIs RESTful).
 
 - - -
 
 ## Recursos para Django
 
-*Recursos para Django.*
+*Módulos utilitarios para Django.*
 * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
 *Mixins* y utilidades para los modelos en *Django*.
-* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) - Colas de tareas distribuídas (para que sean utilizadas dentro de *Django*).
+* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
+Colas de tareas distribuídas (para que sean utilizadas dentro de *Django*).
 
 - - -
 
 ## Recursos para el desarrollo de Backends
 
 *Recursos para desarrollar componentes y servidores de backend*
+
 * [celery](http://www.celeryproject.org/) - Cola de tareas distribuidas.
+* [requests](http://docs.python-requests.org/en/latest/) – Una hermosa Librería
+para manejar peticiones HTTP.
+* [rq](http://python-rq.org/) – Librería para implementar colas de tareas usando
+Redis
 
 - - -
 
-## Recursos relacionados con las Bases de Datos
+## Recursos para el manejo de Bases de Datos
 
 ### Conectores
 
@@ -55,10 +64,17 @@ de bases de datos para que sea utilizada con [SQLAlchemy][sqlalchemy].
 
 - - -
 
+## Recursos para el despliegue de aplicaciones
+
+*[fabric](http://www.fabfile.org/) – Aplicación de línea de comandos que
+permite desplegar aplicaciones vía SSH
+
+- - -
+
 ## Blog posts
 
 * [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - Este post te ayudará a entender qué sucede internamente cuando se realizan tareas comunes como crear variables o llamar a una función.
-
+* [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
