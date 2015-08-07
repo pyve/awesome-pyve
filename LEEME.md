@@ -5,6 +5,7 @@
     - [Recursos para Django](#recursos-para-django)
     - [Recursos para el desarrollo de Backends](#Recursos-para-el-desarrollo-de-Backends)
     - [Recursos relacionados con las Bases de Datos](#recurosos-relacionados-con-las-bases-de-datos)
+    - [Blog posts](#blog-posts)
 
 - - -
 
@@ -51,6 +52,12 @@ desde *Python*.
 de bases de datos para que sea utilizada con [SQLAlchemy][sqlalchemy].
 
 [sqlalchemy]: http://www.sqlalchemy.org/
+
+- - -
+
+## Blog posts
+
+* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - Este post te ayudará a entender qué sucede internamente cuando se realizan tareas comunes como crear variables o llamar a una función.
 
 ## License
 
