@@ -6,7 +6,7 @@
     - [Recursos para el desarrollo de Backends](#Recursos-para-el-desarrollo-de-Backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
-    - [Otros recursos útlies](#otros-recursos-utiles)
+    - [Otros recursos útlies](#otros-recursos-útiles)
     - [Blog posts](#blog-posts)
 
 - - -
@@ -67,14 +67,14 @@ de bases de datos para que sea utilizada con [SQLAlchemy][sqlalchemy].
 
 ## Recursos para el despliegue de aplicaciones
 
-*[fabric](http://www.fabfile.org/) – Aplicación de línea de comandos que
+* [fabric](http://www.fabfile.org/) – Aplicación de línea de comandos que
 permite desplegar aplicaciones vía SSH
 
 - - -
 
 ## Otros recursos útiles
 
-*[click](http://click.pocoo.org/4/) – Click es una librería para manejar la
+* [click](http://click.pocoo.org/4/) – Click es una librería para manejar la
 línea de comandos desde Python.
 
 - - -
