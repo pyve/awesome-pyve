@@ -39,7 +39,7 @@ Colas de tareas distribuídas (para que sean utilizadas dentro de *Django*).
 
 *Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)*
 * [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
-establecer comunicación vía puerto serial con arduino a través de Python *(En inglés)*.
+establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
 * [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video
 tutoriales para manejar arduino con Python *(En inglés)*.
 
