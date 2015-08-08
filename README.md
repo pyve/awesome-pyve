@@ -69,7 +69,19 @@ Redis
 
 - - -
 
-### ORM tools
+## Recursos para el manejo de Bases de Datos
+
+* [ZODB](http://www.zodb.org/) - Base de Datos Orientada a Objetos nativa para *Python*.
+
+### Conectores
+
+* [psycopg2](http://initd.org/psycopg/) - *Psycopg* es el adaptador de
+*PostgreSQL* más popular.
+* [pymongo](http://api.mongodb.org/python/current/) - Conector para *MongoDB*
+desde *Python*.
+* [MySQL Connector](http://dev.mysql.com/doc/connector-python/en/) - Conector para *MySQL* desde *Python*.
+
+### Herramientas y Mapeadores Objeto-Relacionales
 
 * [SQLAlchemy][sqlalchemy] - SQLAlchemy es un 
 [ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para python que incluye soporte 
@@ -94,6 +106,8 @@ ejecutar aplicaciones o tareas administrativas locales o remotas través de
 
 * [pyqt](https://wiki.python.org/moin/PyQt) – Librería para crear interfaces
 gráficas de escritorio usando Qt 4.x o Qt 5.x
+* [PySide](https://wiki.qt.io/PySide) – Librería para crear interfaces gráficas
+de escritorio usando Qt.
 * [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
 Librería para crear interfaces gráficas de escritorio usango Gtk+ 3
 
@@ -103,6 +117,7 @@ Librería para crear interfaces gráficas de escritorio usango Gtk+ 3
 
 * [click](http://click.pocoo.org/4/) – Click es una librería para manejar la
 línea de comandos desde Python.
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
 
 - - -
 
@@ -112,7 +127,7 @@ línea de comandos desde Python.
 * [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/) –
 Pasos para hacer tu proyecto open source de la mejor manera.
 
-## License
+## Licencia
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
