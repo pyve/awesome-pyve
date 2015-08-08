@@ -80,6 +80,8 @@ permite desplegar aplicaciones vía SSH
 
 * [pyqt](https://wiki.python.org/moin/PyQt) – Librería para crear interfaces
 gráficas de escritorio usando Qt 4.x o Qt 5.x
+* [PySide](https://wiki.qt.io/PySide) – Librería para crear interfaces gráficas
+de escritorio usando Qt.
 * [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
 Librería para crear interfaces gráficas de escritorio usango Gtk+ 3
 
@@ -89,6 +91,7 @@ Librería para crear interfaces gráficas de escritorio usango Gtk+ 3
 
 * [click](http://click.pocoo.org/4/) – Click es una librería para manejar la
 línea de comandos desde Python.
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
 
 - - -
 
