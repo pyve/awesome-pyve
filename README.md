@@ -5,6 +5,7 @@
     - [Recursos para Django](#recursos-para-django)
     - [Recursos para el desarrollo de Backends](#Recursos-para-el-desarrollo-de-Backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
+    - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Otros recursos útlies](#otros-recursos-útiles)
     - [Blog posts](#blog-posts)
@@ -72,6 +73,15 @@ de bases de datos para que sea utilizada con [SQLAlchemy][sqlalchemy].
 
 * [fabric](http://www.fabfile.org/) – Aplicación de línea de comandos que
 permite desplegar aplicaciones vía SSH
+
+- - -
+
+## Recursos para crear interfaces gráficas
+
+* [pyqt](https://wiki.python.org/moin/PyQt) – Librería para crear interfaces
+gráficas de escritorio usando Qt 4.x o Qt 5.x
+* [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
+Librería para crear interfaces gráficas de escritorio usango Gtk+ 3
 
 - - -
 
