@@ -18,8 +18,8 @@
 
 *Bibliotecas para el desarrollo de APIs RESTful*
 * [django-rest-framework](http://www.django-rest-framework.org/) - Marco de trabajo para
-desarrollar interfaces Web o APIs (acrónimo inglés: Application Programming Interface) 
-basado en REST (acrónimo inglés: (Representational State Transfer) *(en inglés)*.
+desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
+basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
 * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
 django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
 * [flask](http://flask.pocoo.org/) – Flask es un micro marco de trabajo que sirve para
