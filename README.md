@@ -49,13 +49,9 @@ para aprender a programar Raspberry Py con python *(en inglés)*.
 
 - - -
 
-## Hardware libre con Python
-
-### Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)
-* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
-establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
-* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video
-tutoriales para manejar arduino con Python *(en inglés)*.
+## Herramientas para depuración de código
+* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger.
+Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
 
 
 - - -
@@ -72,11 +68,6 @@ para manejar peticiones HTTP.
 Redis
 
 - - -
-
-## Herramientas para depuración de código
-* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger.
-Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
-
 
 ### ORM tools
 
