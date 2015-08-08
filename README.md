@@ -47,12 +47,15 @@ Redis
 
 ## Recursos para el manejo de Bases de Datos
 
+* [ZODB](http://www.zodb.org/) - Base de Datos Orientada a Objetos nativa para *Python*.
+
 ### Conectores
 
 * [psycopg2](http://initd.org/psycopg/) - *Psycopg* es el adaptador de
 *PostgreSQL* más popular.
 * [pymongo](http://api.mongodb.org/python/current/) - Conector para *MongoDB*
 desde *Python*.
+* [MySQL Connector](http://dev.mysql.com/doc/connector-python/en/) - Conector para *MySQL* desde *Python*.
 
 ### ORM tools
 
@@ -85,7 +88,7 @@ línea de comandos desde Python.
 * [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/) –
 Pasos para hacer tu proyecto open source de la mejor manera.
 
-## License
+## Licencia
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
