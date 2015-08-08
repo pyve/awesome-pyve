@@ -75,7 +75,7 @@ Redis
 
 ## Herramientas para depuración de código
 * [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger.
-soporta punto de interrupción condicionales y seguimiento paso a paso del código.
+Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
 
 
 ### ORM tools
