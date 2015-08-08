@@ -37,13 +37,13 @@ Colas de tareas distribuídas (para que sean utilizadas dentro de *Django*).
 
 ## Hardware libre con Python
 
-*Bibliotecas para el desarrollo con Arduino*
+*Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)*
 * [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
 establecer comunicación vía puerto serial con arduino a través de Python *(En inglés)*.
 * [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video
 tutoriales para manejar arduino con Python *(En inglés)*.
 
-*Bibliotecas para el desarrollo con Raspberry Pi*
+*Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)*
 * [Raspberry Pi Teach](https://www.raspberrypi.org/resources/teach/) - Recursos
 para aprender a programar Raspberry Py con python *(en inglés)*.
 
