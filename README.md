@@ -3,8 +3,8 @@
 - Índice:
     - [API REST](#api-rest)
     - [Recursos para Django](#recursos-para-django)
-    - [Hardware libre con Python](#Hardware-libre)
-    - [Recursos para el desarrollo de Backends](#Recursos-para-el-desarrollo-de-Backends)
+    - [Hardware libre con Python](#hardware-libre)
+    - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
