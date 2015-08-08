@@ -41,7 +41,7 @@ Tareas asincronicas distribuídas en tiempo real con *Django (en inglés)* .
 * [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
 establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
 * [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video
-tutoriales para manejar arduino con Python *(En inglés)*.
+tutoriales para manejar arduino con Python *(en inglés)*.
 
 ### Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)
 * [Raspberry Pi Teach](https://www.raspberrypi.org/resources/teach/) - Recursos
@@ -55,7 +55,7 @@ para aprender a programar Raspberry Py con python *(en inglés)*.
 * [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
 establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
 * [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video
-tutoriales para manejar arduino con Python *(En inglés)*.
+tutoriales para manejar arduino con Python *(en inglés)*.
 
 
 - - -
