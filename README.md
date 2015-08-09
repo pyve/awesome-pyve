@@ -2,7 +2,7 @@
 
 - Índice:
     - [Análisis científico con Python](#análisis-científico-con-python)
-    - [Framework basados en Python](#api-rest)
+    - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para depuración de código](#herramientas-para-depuración-de-código)
     - [Recursos para Django](#recursos-para-django)
@@ -25,9 +25,9 @@ realizar análisis y modelado de datos *(en inglés)*.
 
 - - -
 
-## [Framework](https://es.wikipedia.org/wiki/Framework) basados en Python
+## [Frameworks](https://es.wikipedia.org/wiki/Framework) basados en Python
 
-### Framework para desarrollo web
+### Frameworks para desarrollo web
 * [Django](https://www.djangoproject.com/)
     * Complementos para Django   
         * [django-rest-framework](http://www.django-rest-framework.org/) - Marco de trabajo para
