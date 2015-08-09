@@ -1,7 +1,8 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
 - Índice:
-    - [API REST](#api-rest)
+    - [Análisis científico con Python](#análisis-científico-con-python)
+    - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para depuración de código](#herramientas-para-depuración-de-código)
     - [Recursos para Django](#recursos-para-django)
@@ -14,15 +15,27 @@
 
 - - -
 
-## API RESTful
+## Análisis científico con Python
 
-*Bibliotecas para el desarrollo de APIs RESTful*
-* [django-rest-framework](http://www.django-rest-framework.org/) - Marco de trabajo para
-desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
-basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
-django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
-* [flask](http://flask.pocoo.org/) – Flask es un micro marco de trabajo que sirve para
+* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Librería programada en c++
+de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+* [Pandas](http://pandas.pydata.org/) - Libreria de altor rendimiento y simple de usar para
+realizar análisis y modelado de datos *(en inglés)*.
+
+
+- - -
+
+## [Frameworks](https://es.wikipedia.org/wiki/Framework) basados en Python
+
+### Frameworks para desarrollo web
+* [Django](https://www.djangoproject.com/)
+    * Complementos para Django   
+        * [django-rest-framework](http://www.django-rest-framework.org/) - Marco de trabajo para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
+        * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
+          django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
+* [Flask](http://flask.pocoo.org/) – Flask es un micro marco de trabajo que sirve para
 construir aplicaciones web.
 
 - - -
