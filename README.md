@@ -4,8 +4,7 @@
     - [Análisis científico con Python](#análisis-científico-con-python)
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
-    - [Herramientas para depuración de código](#herramientas-para-depuración-de-código)
-    - [Recursos para Django](#recursos-para-django)
+    - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
     - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
@@ -60,9 +59,9 @@ para aprender a programar Raspberry Py con python *(en inglés)*.
 
 - - -
 
-## Herramientas para depuración de código
-* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger.
-Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
+## Herramientas para desarrollo y depuración de código
+* [iPython](http://ipython.org/) - Poderoso shell interactivo; cuenta con interfaz gráfica basadan en Qt e interfaz basada en navegador notebook con soporte para código, texto enriquecido, expresiones matemáticas, generador de gráficos entre otros.
+* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
 
 
 - - -
