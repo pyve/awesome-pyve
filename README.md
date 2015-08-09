@@ -28,23 +28,21 @@ realizar análisis y modelado de datos *(en inglés)*.
 ## [Frameworks](https://es.wikipedia.org/wiki/Framework) basados en Python
 
 ### Frameworks para desarrollo web
-* [Django](https://www.djangoproject.com/)
+* [Django](https://www.djangoproject.com/) - Framework web de alto nivel, desarrollo rápido con diseño
+limpio y pragmático
     * Complementos para Django   
-        * [django-rest-framework](http://www.django-rest-framework.org/) - Marco de trabajo para
+        * [django-rest-framework](http://www.django-rest-framework.org/) - Framework para
           desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
           basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
         * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
           django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
+        * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
+          Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
+        * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
+          Tareas asincronicas distribuídas en tiempo real con *Django (en inglés)* .
+
 * [Flask](http://flask.pocoo.org/) – Flask es un micro marco de trabajo que sirve para
 construir aplicaciones web.
-
-- - -
-
-## Recursos para Django
-* [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
-Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
-* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
-Tareas asincronicas distribuídas en tiempo real con *Django (en inglés)* .
 
 - - -
 
