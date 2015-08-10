@@ -7,8 +7,9 @@
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
     - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
-    - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
+    - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
+    - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
     - [Otros recursos útlies](#otros-recursos-útiles)
     - [Blog posts](#blog-posts)
 
@@ -66,7 +67,7 @@ para aprender a programar Raspberry Py con python *(en inglés)*.
 
 - - -
 
-## Recursos para el desarrollo de Backends
+## Recursos para el desarrollo de [Backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
 *Recursos para desarrollar componentes y servidores de backend*
 
@@ -101,6 +102,23 @@ programación orientada a objetos con los motores base de datos relacionales *(e
 de bases de datos para [SQLAlchemy][sqlalchemy].
 
 [sqlalchemy]: http://www.sqlalchemy.org/
+
+- - -
+
+## Recursos para el desarrollo de [Front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+
+*Los siguientes son recursos no tienen ninguna relación con Python pero son
+sumamente útiles para el desarrollo de interfaces web.*
+
+* [Bootstrap](http://getbootstrap.com/) – Es un framework HTML, CSS y JS para
+crear aplicaciones web responsivas
+
+* [Foundation](http://foundation.zurb.com/) – Es otro framework HTML, CSS y JS
+para el desarrollo de aplicaciones web responsivas
+
+* [PureCSS](http://purecss.io/) – Es un conjunto de módulos CSS muy pequeño que
+se usa para desarrollar aplicaciones web responsivas. A diferencia de Bootstrap
+y Foundation, PureCSS no contiene ningún módulo Javascript.
 
 - - -
 
