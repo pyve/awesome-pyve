@@ -5,18 +5,23 @@ Lista de términos normalmente utilizados.
 ## A
 
 * *ACID (Bases de Datos)*: Elit sit mollitia ab excepturi est cupiditate velit nesciunt omnis. Reprehenderit nostrum alias facilis illum quod beatae. Et delectus libero animi quisquam id nulla laudantium expedita. Dolor perferendis sit commodi!
+* *API*: Elit sit mollitia ab excepturi est cupiditate velit nesciunt omnis. Reprehenderit nostrum alias facilis illum quod beatae. Et delectus libero animi quisquam id nulla laudantium expedita. Dolor perferendis sit commodi!
 
 ## B
 
 * *buffer*: Dolor sapiente mollitia molestiae amet earum magni accusamus illo saepe. Impedit unde est maxime dignissimos maiores quaerat, voluptates dignissimos facilis nesciunt? Ab cum enim assumenda doloribus ullam consequuntur impedit. Dolore.
+* *back-end*: Dolor sapiente mollitia molestiae amet earum magni accusamus illo saepe. Impedit unde est maxime dignissimos maiores quaerat, voluptates dignissimos facilis nesciunt? Ab cum enim assumenda doloribus ullam consequuntur impedit. Dolore.
 
 ## C
 
 * *ctypes*: Consectetur consectetur molestias accusamus consequuntur doloremque fugit ut amet. Delectus adipisci ducimus quasi dignissimos vel. Pariatur optio corrupti porro sed sit. Inventore veniam beatae adipisci illum eum hic reiciendis quo.
+* *CSS*: Ipsum eveniet a vero saepe recusandae dolores asperiores non cumque eligendi dolores perspiciatis minima fugit cupiditate. Consectetur fuga facilis error eligendi reprehenderit voluptatem tenetur. Reiciendis quae neque repellendus nobis officiis.
+* *commit*: Ipsum eveniet a vero saepe recusandae dolores asperiores non cumque eligendi dolores perspiciatis minima fugit cupiditate. Consectetur fuga facilis error eligendi reprehenderit voluptatem tenetur. Reiciendis quae neque repellendus nobis officiis.
 
 ## D
 
 * *dictionary*: Adipisicing sed iste inventore voluptatem repellendus architecto. Voluptatum voluptatibus vero voluptatem ex dolor voluptates! Asperiores odit cupiditate labore officia similique. Totam culpa repellendus aut ut cum vel sed laborum illo.
+* *deploy*: Adipisicing sed iste inventore voluptatem repellendus architecto. Voluptatum voluptatibus vero voluptatem ex dolor voluptates! Asperiores odit cupiditate labore officia similique. Totam culpa repellendus aut ut cum vel sed laborum illo.
 
 ## E
 
@@ -25,18 +30,23 @@ Lista de términos normalmente utilizados.
 ## F
 
 * *failback*: Ipsum saepe ea natus voluptatibus magni. Impedit quibusdam inventore aliquam sequi aliquam, similique fugit debitis doloremque accusantium! Illum nemo quas magni nobis autem. Sit aperiam voluptatibus illum laboriosam autem numquam.
+* *framework*: Ipsum saepe ea natus voluptatibus magni. Impedit quibusdam inventore aliquam sequi aliquam, similique fugit debitis doloremque accusantium! Illum nemo quas magni nobis autem. Sit aperiam voluptatibus illum laboriosam autem numquam.
+* *front-end*: Dolor sapiente mollitia molestiae amet earum magni accusamus illo saepe. Impedit unde est maxime dignissimos maiores quaerat, voluptates dignissimos facilis nesciunt? Ab cum enim assumenda doloribus ullam consequuntur impedit. Dolore.
 
 ## G
 
 ## H
+* *HTML*: Ipsum eveniet a vero saepe recusandae dolores asperiores non cumque eligendi dolores perspiciatis minima fugit cupiditate. Consectetur fuga facilis error eligendi reprehenderit voluptatem tenetur. Reiciendis quae neque repellendus nobis officiis.
 
 ## I
 
 ## J
+* *JS*: Ipsum eveniet a vero saepe recusandae dolores asperiores non cumque eligendi dolores perspiciatis minima fugit cupiditate. Consectetur fuga facilis error eligendi reprehenderit voluptatem tenetur. Reiciendis quae neque repellendus nobis officiis.
 
 ## K
 
 ## L
+* *login*: Ipsum eveniet a vero saepe recusandae dolores asperiores non cumque eligendi dolores perspiciatis minima fugit cupiditate. Consectetur fuga facilis error eligendi reprehenderit voluptatem tenetur. Reiciendis quae neque repellendus nobis officiis.
 
 ## M
 
@@ -53,6 +63,7 @@ Lista de términos normalmente utilizados.
 ## P
 
 * *pypi*: Ipsum vero velit molestiae et quos atque. Sint sed natus aliquid maxime unde voluptate reiciendis. Commodi ad distinctio magnam consectetur voluptate voluptatum libero nesciunt beatae eveniet! Voluptas quas est temporibus.
+* *PR*: Ipsum vero velit molestiae et quos atque. Sint sed natus aliquid maxime unde voluptate reiciendis. Commodi ad distinctio magnam consectetur voluptate voluptatum libero nesciunt beatae eveniet! Voluptas quas est temporibus.
 
 ## Q
 
@@ -64,7 +75,7 @@ Lista de términos normalmente utilizados.
 
 ## S
 
-* *Secuence*: Ipsum officiis itaque tempora id ullam autem, unde? Earum doloribus eaque dolor iste suscipit ullam? Cupiditate sunt distinctio molestias error facilis. Nulla modi delectus quia doloremque saepe voluptate. Doloribus molestiae.
+* *sequence*: Ipsum officiis itaque tempora id ullam autem, unde? Earum doloribus eaque dolor iste suscipit ullam? Cupiditate sunt distinctio molestias error facilis. Nulla modi delectus quia doloremque saepe voluptate. Doloribus molestiae.
 
 ## T
 
