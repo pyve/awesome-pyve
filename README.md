@@ -9,6 +9,7 @@
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
+    - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
     - [Otros recursos útlies](#otros-recursos-útiles)
     - [Blog posts](#blog-posts)
@@ -128,6 +129,23 @@ y Foundation, PureCSS no contiene ningún módulo Javascript.
 ejecutar aplicaciones o tareas administrativas locales o remotas través de 
 [SSH](https://es.wikipedia.org/wiki/Secure_Shell)
 
+- - -
+
+## Servicios para el control de versiones
+
+* [GitHub](https://github.com/) – Es uno de los servicios web más populares
+que ofrece hosting gratuito para repositorios en Git, seguimiento de errores,
+solicitudes de cambios y wikis. Ofrece repositorios privados pero de pago.
+
+* [GitLab](https://gitlab.com/) – Es otro servicio web que ofrece hosting
+gratuito para repositorios en Git, seguimiento de errores, solicitudes de
+cambios y wikis. A diferencia de GitHub, GitLab ofrece repositorios privados
+de forma gratuita (pero limitados)
+
+* [Bitbucket](https://bitbucket.org/) – Es un servicio web que ofrece hosting
+gratuito para no sólo para repositorios en Git sino también en Mercurial,
+ofrece seguimiento de errores, solicitudes de cambios y wikis. También ofrece
+repositorios privados de forma gratuita (pero limitados)
 - - -
 
 ## Recursos para crear interfaces gráficas
