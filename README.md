@@ -7,7 +7,7 @@
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
     - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
-    _ [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
+    - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
     - [Otros recursos útlies](#otros-recursos-útiles)
