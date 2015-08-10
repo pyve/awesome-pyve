@@ -11,18 +11,35 @@
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
-    - [Otros recursos útlies](#otros-recursos-útiles)
+    - [Otros recursos útiles](#otros-recursos-útiles)
     - [Blog posts](#blog-posts)
 
 - - -
 
 ## Análisis científico con Python
 
-* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca programada en c++
-de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+### Paquetes básicos
+
+* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el cómputo numeŕico. Permite definir arreglos y matrices numéricas multidimensionales y realizar operaciones sobre estos.
+* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de algortimos numéricos y cajas de herramientas para dominios específicos que incluyen procesamiento de señales, optimización, estadística y mucho mas.
 * [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple de usar para
 realizar análisis y modelado de datos *(en inglés)*.
+* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica. Tiene el objetivo de convertirse en un sistema completo de algebra computacional implementado totalmente en Python.
 
+### Gráficos
+
+* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos que se ha convertido en el estándar de facto en Python, provee capacidad de gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y servidores de aplicación web. Existe un modo especial de IPython que se integra con Matplotlib.
+* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca programada en c++
+de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+
+### Extensiones
+
+* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra de Scipy que proveen funcionalidad mas específica. scikit-image para procesamiento de imágenes y scikit-learn para aprendizaje automático y minería de datos son dos de los mas destacados.
+
+### Recursos
+
+* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de materiales sobre las herramientas del ecosistema científico de Python.
+* [Software Carpentry](https://software-carpentry.org/) -es una organización de voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas básicas a investigadores. En la sección [lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente material de buenas prácticas de desarrollo y Python, y otras herramientas como bases de datos y sistemas de control de versiones.
 
 - - -
 
@@ -164,6 +181,7 @@ Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
 * [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
 línea de comandos desde Python.
 * [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
+* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
 
 - - -
 
