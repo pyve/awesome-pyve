@@ -1,59 +1,198 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
-### Awesome PythonVe
-- [RESTful API](#restful-api)
-- [Django resources](#django-resources)
-- [Backend development resources](#backend-resources)
-- [Database related resources](#database-resources)
-- [Blog posts](#blog-posts)
+- Índice:
+    - [Análisis científico con Python](#análisis-científico-con-python)
+    - [Frameworks basados en Python](#frameworks-basados-en-python)
+    - [Hardware libre con Python](#hardware-libre-con-python)
+    - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
+    - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
+    - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
+    - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
+    - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
+    - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
+    - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
+    - [Otros recursos útiles](#otros-recursos-útiles)
+    - [Blog posts](#blog-posts)
 
 - - -
 
-## RESTful API
+## Análisis científico con Python
 
-*Libraries for developing RESTful APIs.*
-* [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
-* [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) - Geographic add-ons for Django Rest Framework.
+### Paquetes básicos
+
+* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el cómputo numeŕico. Permite definir arreglos y matrices numéricas multidimensionales y realizar operaciones sobre estos.
+* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de algortimos numéricos y cajas de herramientas para dominios específicos que incluyen procesamiento de señales, optimización, estadística y mucho mas.
+* [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple de usar para
+realizar análisis y modelado de datos *(en inglés)*.
+* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica. Tiene el objetivo de convertirse en un sistema completo de algebra computacional implementado totalmente en Python.
+
+### Gráficos
+
+* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos que se ha convertido en el estándar de facto en Python, provee capacidad de gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y servidores de aplicación web. Existe un modo especial de IPython que se integra con Matplotlib.
+* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca programada en c++
+de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+
+### Extensiones
+
+* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra de Scipy que proveen funcionalidad mas específica. scikit-image para procesamiento de imágenes y scikit-learn para aprendizaje automático y minería de datos son dos de los mas destacados.
+
+### Recursos
+
+* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de materiales sobre las herramientas del ecosistema científico de Python.
+* [Software Carpentry](https://software-carpentry.org/) -es una organización de voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas básicas a investigadores. En la sección [lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente material de buenas prácticas de desarrollo y Python, y otras herramientas como bases de datos y sistemas de control de versiones.
+
+- - -
+
+## [Frameworks](https://es.wikipedia.org/wiki/Framework) basados en Python
+
+### Frameworks para desarrollo web
+* [Django](https://www.djangoproject.com/) - Framework web de alto nivel, desarrollo rápido con diseño
+limpio y pragmático
+    * Complementos para Django   
+        * [django-rest-framework](http://www.django-rest-framework.org/) - Framework para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
+        * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
+          django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
+        * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
+          Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
+        * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
+          Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
+
+* [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
+construir aplicaciones web.
+
+- - -
+
+## Hardware libre con Python
+
+### Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)
+* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
+establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
+* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video-
+tutoriales para manejar arduino con Python *(en inglés)*.
+
+### Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)
+* [Raspberry Pi Teach](https://www.raspberrypi.org/resources/teach/) - Recursos
+para aprender a programar Raspberry Py con python *(en inglés)*.
+
+- - -
+
+## Herramientas para desarrollo y depuración de código
+* [IPython](http://ipython.org/) - Poderoso shell interactivo; cuenta con interfaz gráfica basada en Qt e interfaz basada en navegador notebook con soporte para código, texto enriquecido, expresiones matemáticas, generador de gráficos entre otros.
+* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
 
 
 - - -
 
-## Django resources
+## Recursos para el desarrollo de [Backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
-*Resources for Django.*
-* [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) - Django model mixins and utilities.
-* [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) - Distributed Task Queue (for use within Django).
+*Recursos para desarrollar componentes y servidores de backend*
 
-- - -
-
-## Backend development resources
-
-*Resources for developing backend components and servers*
-* [celery](http://www.celeryproject.org/) - Distributed Task Queue
+* [celery](http://www.celeryproject.org/) - Biblioteca para el manejo de tareas asincrónicas
+mediante mensajes distribuidos en tiempo real.
+* [requests](http://docs.python-requests.org/en/latest/) – Una hermosa biblioteca
+para manejar peticiones HTTP.
+* [rq](http://python-rq.org/) – Biblioteca para implementar colas de tareas usando
+Redis
 
 - - -
 
-## Database related resources
+## Recursos para el manejo de Bases de Datos
 
-### Connectors
+* [ZODB](http://www.zodb.org/) - Base de Datos Orientada a Objetos nativa para *Python*.
 
-* [psycopg2](http://initd.org/psycopg/) - Psycopg is the most popular PostgreSQL adapter.
-* [pymongo](http://api.mongodb.org/python/current/) - MongoDB Python connector.
+### Conectores
 
-### ORM tools
+* [psycopg2](http://initd.org/psycopg/) - *Psycopg* es el adaptador de
+*PostgreSQL* más popular.
+* [pymongo](http://api.mongodb.org/python/current/) - Conector para *MongoDB*
+desde *Python*.
+* [MySQL Connector](http://dev.mysql.com/doc/connector-python/en/) - Conector para *MySQL* desde *Python*.
 
-* [SQLAlchemy][sqlalchemy] - SQL toolkit and Object Relational Mapper.
-* [Alembic](http://alembic.readthedocs.org/) - Lightweight database migration tool for usage with the [SQLAlchemy][sqlalchemy]
+### Herramientas y Mapeadores Objeto-Relacionales
+
+* [SQLAlchemy][sqlalchemy] - SQLAlchemy es un 
+[ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para python que incluye soporte 
+para SQLite, MySQL, PostgreSQL, Oracle, MS SQL, entre otros que facilita la
+programación orientada a objetos con los motores base de datos relacionales *(en inglés)*
+* [Alembic](http://alembic.readthedocs.org/) - Herramienta ligera de migración
+de bases de datos para [SQLAlchemy][sqlalchemy].
 
 [sqlalchemy]: http://www.sqlalchemy.org/
 
+- - -
+
+## Recursos para el desarrollo de [Front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+
+*Los siguientes son recursos no tienen ninguna relación con Python pero son
+sumamente útiles para el desarrollo de interfaces web.*
+
+* [Bootstrap](http://getbootstrap.com/) – Es un framework HTML, CSS y JS para
+crear aplicaciones web responsivas
+
+* [Foundation](http://foundation.zurb.com/) – Es otro framework HTML, CSS y JS
+para el desarrollo de aplicaciones web responsivas
+
+* [PureCSS](http://purecss.io/) – Es un conjunto de módulos CSS muy pequeño que
+se usa para desarrollar aplicaciones web responsivas. A diferencia de Bootstrap
+y Foundation, PureCSS no contiene ningún módulo Javascript.
+
+- - -
+
+## Recursos para el despliegue de aplicaciones
+
+* [fabric](http://www.fabfile.org/) – Es una biblioteca Python basado en línea de comandos para
+ejecutar aplicaciones o tareas administrativas locales o remotas través de 
+[SSH](https://es.wikipedia.org/wiki/Secure_Shell)
+
+- - -
+
+## Servicios para el control de versiones
+
+* [GitHub](https://github.com/) – Es uno de los servicios web más populares
+que ofrece hosting gratuito para repositorios en Git, seguimiento de errores,
+solicitudes de cambios y wikis. Ofrece repositorios privados pero de pago.
+
+* [GitLab](https://gitlab.com/) – Es otro servicio web que ofrece hosting
+gratuito para repositorios en Git, seguimiento de errores, solicitudes de
+cambios y wikis. A diferencia de GitHub, GitLab ofrece repositorios privados
+de forma gratuita (pero limitados)
+
+* [Bitbucket](https://bitbucket.org/) – Es un servicio web que ofrece hosting
+gratuito para no sólo para repositorios en Git sino también en Mercurial,
+ofrece seguimiento de errores, solicitudes de cambios y wikis. También ofrece
+repositorios privados de forma gratuita (pero limitados)
+- - -
+
+## Recursos para crear interfaces gráficas
+
+* [pyqt](https://wiki.python.org/moin/PyQt) – Biblioteca para crear interfaces
+gráficas de escritorio usando Qt 4.x o Qt 5.x
+* [PySide](https://wiki.qt.io/PySide) – Biblioteca para crear interfaces gráficas
+de escritorio usando Qt.
+* [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
+Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
+
+- - -
+
+## Otros recursos útiles
+
+* [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
+línea de comandos desde Python.
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
+* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
+
+- - -
+
 ## Blog posts
 
-* [Drastically Improve Your Python: Understanding Python's Execution Model](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - This post will help you understand what's happening behind the scenes when you do common things like creating a variable or calling a function.
+* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - Este post te ayudará a entender qué sucede internamente cuando se realizan tareas comunes como crear variables o llamar a una función.
+* [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/) –
+Pasos para hacer tu proyecto open source de la mejor manera.
 
-
-## License
+## Licencia
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Este trabajo tiene licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
