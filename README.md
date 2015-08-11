@@ -95,6 +95,7 @@ mediante mensajes distribuidos en tiempo real.
 para manejar peticiones HTTP.
 * [rq](http://python-rq.org/) – Biblioteca para implementar colas de tareas usando
 Redis
+* [Zato](https://zato.io) - Middleware basado en Python y servidor de aplicaciones para ESB (Enterprise Service Bus), SOA, REST, APIs, e integraciones con la nube.
 
 - - -
 
