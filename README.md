@@ -48,6 +48,13 @@ de alto rendimiento para construcción de gráficos de con data de gran escala *
 ### Frameworks para desarrollo web
 * [Django](https://www.djangoproject.com/) - Framework web de alto nivel, desarrollo rápido con diseño
 limpio y pragmático
+    * Tutoriales
+        * [django start](https://www.djangoproject.com/start/) - Tutorial Django
+          (en inglés)
+        * [Write your first Django app](https://docs.djangoproject.com/en/1.8/intro/tutorial01/) - Programe tu
+          primera aplicación con Django(en inglés)  
+        * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) - Tutorial Django
+          (en español)
     * Complementos para Django   
         * [django-rest-framework](http://www.django-rest-framework.org/) - Framework para
           desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
