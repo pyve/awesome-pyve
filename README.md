@@ -69,6 +69,10 @@ limpio y pragmático
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
+* [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es un framework web general. Sus principios son la simplicidad, minimalismo, documentación, velocidad, confiabilidad y apertura.
+  * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API RESTful usando RAML.
+  * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL para escritura. 
+
 - - -
 
 ## Hardware libre con Python
