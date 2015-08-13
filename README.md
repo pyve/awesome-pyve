@@ -21,31 +21,51 @@
 
 ### Paquetes básicos
 
-* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el cómputo numeŕico. Permite definir arreglos y matrices numéricas multidimensionales y realizar operaciones sobre estos.
+* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el
+cómputo numeŕico. Permite definir arreglos y matrices numéricas
+multidimensionales y realizar operaciones sobre estos.
 
-* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de algortimos numéricos y cajas de herramientas para dominios específicos que incluyen procesamiento de señales, optimización, estadística y mucho mas.
+* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de
+algortimos numéricos y cajas de herramientas para dominios específicos que
+incluyen procesamiento de señales, optimización, estadística y mucho mas.
 
-* [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple de usar para
-realizar análisis y modelado de datos *(en inglés)*.
+* [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple
+de usar para realizar análisis y modelado de datos *(en inglés)*.
 
-* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica. Tiene el objetivo de convertirse en un sistema completo de algebra computacional implementado totalmente en Python.
+* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica.
+Tiene el objetivo de convertirse en un sistema completo de algebra computacional
+implementado totalmente en Python.
 
 ### Gráficos
 
-* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos que se ha convertido en el estándar de facto en Python, provee capacidad de gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y servidores de aplicación web. Existe un modo especial de IPython que se integra con Matplotlib.
+* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos
+que se ha convertido en el estándar de facto en Python, provee capacidad de
+gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y 
+servidores de aplicación web. Existe un modo especial de IPython que se
+integra con Matplotlib.
 
-* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca programada en c++
-de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca
+programada en c++ de alto rendimiento para construcción de gráficos de con data
+de gran escala *(en inglés)*.
 
 ### Extensiones
 
-* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra de Scipy que proveen funcionalidad mas específica. scikit-image para procesamiento de imágenes y scikit-learn para aprendizaje automático y minería de datos son dos de los mas destacados.
+* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra
+de Scipy que proveen funcionalidad mas específica. scikit-image para 
+procesamiento de imágenes y scikit-learn para aprendizaje automático y minería
+de datos son dos de los mas destacados.
 
 ### Recursos
 
-* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de materiales sobre las herramientas del ecosistema científico de Python.
+* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de
+materiales sobre las herramientas del ecosistema científico de Python.
 
-* [Software Carpentry](https://software-carpentry.org/) -es una organización de voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas básicas a investigadores. En la sección [lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente material de buenas prácticas de desarrollo y Python, y otras herramientas como bases de datos y sistemas de control de versiones.
+* [Software Carpentry](https://software-carpentry.org/) -es una organización de
+voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas
+básicas a investigadores. En la sección 
+[lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente
+material de buenas prácticas de desarrollo y Python, y otras herramientas como
+bases de datos y sistemas de control de versiones.
 
 - - -
 
@@ -85,11 +105,16 @@ limpio y pragmático
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
-* [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es un framework web general. Sus principios son la simplicidad, minimalismo, documentación, velocidad, confiabilidad y apertura.
+* [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es
+un framework web general. Sus principios son la simplicidad, minimalismo, 
+documentación, velocidad, confiabilidad y apertura.
 
-  * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API RESTful usando RAML.
+  * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
+    RESTful usando RAML.
 
-  * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL para escritura. 
+  * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API
+    RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL
+    para escritura. 
 
 - - -
 
@@ -210,9 +235,9 @@ y Foundation, PureCSS no contiene ningún módulo Javascript.
 
 ## Recursos para el despliegue de aplicaciones
 
-* [fabric](http://www.fabfile.org/) – Es una biblioteca Python basado en línea de comandos para
-ejecutar aplicaciones o tareas administrativas locales o remotas través de 
-[SSH](https://es.wikipedia.org/wiki/Secure_Shell)
+* [fabric](http://www.fabfile.org/) – Es una biblioteca Python basado en
+línea de comandos para ejecutar aplicaciones o tareas administrativas locales
+o remotas través de [SSH](https://es.wikipedia.org/wiki/Secure_Shell)
 
 - - -
 
@@ -237,8 +262,10 @@ repositorios privados de forma gratuita (pero limitados)
 
 * [pyqt](https://wiki.python.org/moin/PyQt) – Biblioteca para crear interfaces
 gráficas de escritorio usando Qt 4.x o Qt 5.x
+
 * [PySide](https://wiki.qt.io/PySide) – Biblioteca para crear interfaces gráficas
 de escritorio usando Qt.
+
 * [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
 Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
 
@@ -248,14 +275,21 @@ Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
 
 * [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
 línea de comandos desde Python.
-* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
-* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
+
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de
+infraestructuras y despliegue de aplicaciones.
+
+* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la
+biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
 
 - - -
 
 ## Blog posts
 
-* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - Este post te ayudará a entender qué sucede internamente cuando se realizan tareas comunes como crear variables o llamar a una función.
+* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - 
+Este post te ayudará a entender qué sucede internamente cuando se realizan tareas
+comunes como crear variables o llamar a una función.
+
 * [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/) –
 Pasos para hacer tu proyecto open source de la mejor manera.
 
