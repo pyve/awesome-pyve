@@ -5,10 +5,10 @@
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
-    - [Herramientas para gestión de Proyectos](#herramientas-para-gestión-de-proyectos)
-    - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
-    - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
-    - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
+    - [Herramientas para gestión de proyectos](#herramientas-para-gestión-de-proyectos)
+    - [Recursos para el desarrollo de backends](#recursos-para-el-desarrollo-de-backends)
+    - [Recursos para el manejo de bases de datos](#recursos-para-el-manejo-de-bases-de-datos)
+    - [Recursos para el desarrollo de front-ends](#recursos-para-el-desarrollo-de-front-ends)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
@@ -148,7 +148,7 @@ condicionales y seguimiento paso a paso del código.
 
 - - -
 
-## Herramientas para gestión de Proyectos
+## Herramientas para gestión de proyectos
 
 * [Trello](https://trello.com) - Herramienta de pizarras y tarjetas para
 organizar el trabajo.
@@ -168,7 +168,7 @@ partir de repositorios GitHub.
 
 - - -
 
-## Recursos para el desarrollo de [Backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+## Recursos para el desarrollo de [backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
 *Recursos para desarrollar componentes y servidores de backend*
 
@@ -187,7 +187,7 @@ integraciones con la nube.
 
 - - -
 
-## Recursos para el manejo de Bases de Datos
+## Recursos para el manejo de bases de datos
 
 * [ZODB](http://www.zodb.org/) - Base de Datos Orientada a Objetos nativa para *Python*.
 
@@ -216,7 +216,7 @@ de bases de datos para [SQLAlchemy][sqlalchemy].
 
 - - -
 
-## Recursos para el desarrollo de [Front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+## Recursos para el desarrollo de [front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
 *Los siguientes son recursos no tienen ninguna relación con Python pero son
 sumamente útiles para el desarrollo de interfaces web.*
