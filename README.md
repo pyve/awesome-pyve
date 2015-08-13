@@ -5,9 +5,10 @@
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
-    - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
-    - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
-    - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
+    - [Herramientas para gestión de proyectos](#herramientas-para-gestión-de-proyectos)
+    - [Recursos para el desarrollo de backends](#recursos-para-el-desarrollo-de-backends)
+    - [Recursos para el manejo de bases de datos](#recursos-para-el-manejo-de-bases-de-datos)
+    - [Recursos para el desarrollo de front-ends](#recursos-para-el-desarrollo-de-front-ends)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
@@ -20,93 +21,173 @@
 
 ### Paquetes básicos
 
-* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el cómputo numeŕico. Permite definir arreglos y matrices numéricas multidimensionales y realizar operaciones sobre estos.
-* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de algortimos numéricos y cajas de herramientas para dominios específicos que incluyen procesamiento de señales, optimización, estadística y mucho mas.
-* [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple de usar para
-realizar análisis y modelado de datos *(en inglés)*.
-* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica. Tiene el objetivo de convertirse en un sistema completo de algebra computacional implementado totalmente en Python.
+* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el
+cómputo numérico. Permite definir arreglos y matrices numéricas
+multidimensionales y realizar operaciones sobre estos.
+
+* [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de
+algortimos numéricos y cajas de herramientas para dominios específicos que
+incluyen procesamiento de señales, optimización, estadística y mucho mas.
+
+* [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple
+de usar para realizar análisis y modelado de datos *(en inglés)*.
+
+* [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica.
+Tiene el objetivo de convertirse en un sistema completo de algebra computacional
+implementado totalmente en Python.
 
 ### Gráficos
 
-* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos que se ha convertido en el estándar de facto en Python, provee capacidad de gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y servidores de aplicación web. Existe un modo especial de IPython que se integra con Matplotlib.
-* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca programada en c++
-de alto rendimiento para construcción de gráficos de con data de gran escala *(en inglés)*.
+* [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos
+que se ha convertido en el estándar de facto en Python, provee capacidad de
+graficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y 
+servidores de aplicación web. Existe un modo especial de IPython que se
+integra con Matplotlib.
+
+* [GraphLab Create](https://pypi.python.org/pypi/GraphLab-Create) - Biblioteca
+programada en c++ de alto rendimiento para construcción de gráficos de con data
+de gran escala *(en inglés)*.
 
 ### Extensiones
 
-* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra de Scipy que proveen funcionalidad mas específica. scikit-image para procesamiento de imágenes y scikit-learn para aprendizaje automático y minería de datos son dos de los mas destacados.
+* [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra
+de Scipy que proveen funcionalidad mas específica. scikit-image para 
+procesamiento de imágenes y scikit-learn para aprendizaje automático y minería
+de datos son dos de los mas destacados.
 
 ### Recursos
 
-* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de materiales sobre las herramientas del ecosistema científico de Python.
-* [Software Carpentry](https://software-carpentry.org/) -es una organización de voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas básicas a investigadores. En la sección [lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente material de buenas prácticas de desarrollo y Python, y otras herramientas como bases de datos y sistemas de control de versiones.
+* [Scipy lecture notes](https://scipy-lectures.github.io) - Conjunto de
+materiales sobre las herramientas del ecosistema científico de Python.
+
+* [Software Carpentry](https://software-carpentry.org/) -es una organización de
+voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas
+básicas a investigadores. En la sección 
+[lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente
+material de buenas prácticas de desarrollo y Python, y otras herramientas como
+bases de datos y sistemas de control de versiones.
 
 - - -
 
 ## [Frameworks](https://es.wikipedia.org/wiki/Framework) basados en Python
 
 ### Frameworks para desarrollo web
+
 * [Django](https://www.djangoproject.com/) - Framework web de alto nivel, desarrollo rápido con diseño
 limpio y pragmático
+
     * Tutoriales
+
         * [django start](https://www.djangoproject.com/start/) - Tutorial Django
           (en inglés)
+
         * [Write your first Django app](https://docs.djangoproject.com/en/1.8/intro/tutorial01/) - Programe tu
           primera aplicación con Django(en inglés)  
+
         * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) - Tutorial Django
           (en español)
+
     * Complementos para Django   
+
         * [django-rest-framework](http://www.django-rest-framework.org/) - Framework para
           desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
           basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
+
         * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
           django-rest-framework con agregados para el manejo de datos geográficos con *Django*.
+
         * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
           Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
+
         * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
           Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
 
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
+* [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es
+un framework web general. Sus principios son la simplicidad, minimalismo, 
+documentación, velocidad, confiabilidad y apertura.
+
+  * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
+    RESTful usando RAML.
+
+  * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API
+    RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL
+    para escritura. 
+
 - - -
 
 ## Hardware libre con Python
 
 ### Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)
-* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - Herramientas para
-establecer comunicación vía puerto serial con arduino a través de Python *(en inglés)*.
-* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 17 video-
-tutoriales para manejar arduino con Python *(en inglés)*.
+
+* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - 
+Herramientas para establecer comunicación vía puerto serial con arduino a través
+de Python *(en inglés)*.
+
+* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 
+17 videotutoriales para manejar arduino con Python *(en inglés)*.
 
 ### Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)
+
 * [Raspberry Pi Teach](https://www.raspberrypi.org/resources/teach/) - Recursos
 para aprender a programar Raspberry Py con python *(en inglés)*.
 
 - - -
 
 ## Herramientas para desarrollo y depuración de código
-* [IPython](http://ipython.org/) - Poderoso shell interactivo; cuenta con interfaz gráfica basada en Qt e interfaz basada en navegador notebook con soporte para código, texto enriquecido, expresiones matemáticas, generador de gráficos entre otros.
-* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python* acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción condicionales y seguimiento paso a paso del código.
+* [IPython](http://ipython.org/) - Poderoso shell interactivo; cuenta con
+interfaz gráfica basada en Qt e interfaz basada en navegador notebook con
+soporte para código, texto enriquecido, expresiones matemáticas, generador de
+gráficos entre otros.
 
+* [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python*
+acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción 
+condicionales y seguimiento paso a paso del código.
 
 - - -
 
-## Recursos para el desarrollo de [Backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+## Herramientas para gestión de proyectos
+
+* [Trello](https://trello.com) - Herramienta de pizarras y tarjetas para
+organizar el trabajo.
+
+* [Pivotal Traker](https://www.pivotaltracker.com) - Herramienta que simplifica
+el trabajo de colaboración enfocando prioridades del proyecto y equipo de
+trabajo.
+
+* [Taiga.io](https://taiga.io) - Plataforma libre y gratuita para gestión de
+proyectos con mecanismos ágiles.
+
+* [Jira](https://www.atlassian.com/software/jira) - Herramienta para seguimiento
+de equipos de trabajo, flible y extensible.
+
+* [waffle.io](https://waffle.io) - Crea una solución de gestión de proyectos a
+partir de repositorios GitHub.
+
+- - -
+
+## Recursos para el desarrollo de [backends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
 *Recursos para desarrollar componentes y servidores de backend*
 
-* [celery](http://www.celeryproject.org/) - Biblioteca para el manejo de tareas asincrónicas
-mediante mensajes distribuidos en tiempo real.
+* [celery](http://www.celeryproject.org/) - Biblioteca para el manejo de tareas
+asincrónicas mediante mensajes distribuidos en tiempo real.
+
 * [requests](http://docs.python-requests.org/en/latest/) – Una hermosa biblioteca
 para manejar peticiones HTTP.
+
 * [rq](http://python-rq.org/) – Biblioteca para implementar colas de tareas usando
 Redis
-* [Zato](https://zato.io) - Middleware basado en Python y servidor de aplicaciones para ESB (Enterprise Service Bus), SOA, REST, APIs, e integraciones con la nube.
+
+* [Zato](https://zato.io) - Middleware basado en Python y servidor de
+aplicaciones para ESB (Enterprise Service Bus), SOA, REST, APIs, e 
+integraciones con la nube.
 
 - - -
 
-## Recursos para el manejo de Bases de Datos
+## Recursos para el manejo de bases de datos
 
 * [ZODB](http://www.zodb.org/) - Base de Datos Orientada a Objetos nativa para *Python*.
 
@@ -114,9 +195,12 @@ Redis
 
 * [psycopg2](http://initd.org/psycopg/) - *Psycopg* es el adaptador de
 *PostgreSQL* más popular.
+
 * [pymongo](http://api.mongodb.org/python/current/) - Conector para *MongoDB*
 desde *Python*.
-* [MySQL Connector](http://dev.mysql.com/doc/connector-python/en/) - Conector para *MySQL* desde *Python*.
+
+* [MySQL Connector](http://dev.mysql.com/doc/connector-python/en/) - Conector
+para *MySQL* desde *Python*.
 
 ### Herramientas y Mapeadores Objeto-Relacionales
 
@@ -124,6 +208,7 @@ desde *Python*.
 [ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para python que incluye soporte 
 para SQLite, MySQL, PostgreSQL, Oracle, MS SQL, entre otros que facilita la
 programación orientada a objetos con los motores base de datos relacionales *(en inglés)*
+
 * [Alembic](http://alembic.readthedocs.org/) - Herramienta ligera de migración
 de bases de datos para [SQLAlchemy][sqlalchemy].
 
@@ -131,7 +216,7 @@ de bases de datos para [SQLAlchemy][sqlalchemy].
 
 - - -
 
-## Recursos para el desarrollo de [Front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
+## Recursos para el desarrollo de [front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
 
 *Los siguientes son recursos no tienen ninguna relación con Python pero son
 sumamente útiles para el desarrollo de interfaces web.*
@@ -150,9 +235,9 @@ y Foundation, PureCSS no contiene ningún módulo Javascript.
 
 ## Recursos para el despliegue de aplicaciones
 
-* [fabric](http://www.fabfile.org/) – Es una biblioteca Python basado en línea de comandos para
-ejecutar aplicaciones o tareas administrativas locales o remotas través de 
-[SSH](https://es.wikipedia.org/wiki/Secure_Shell)
+* [fabric](http://www.fabfile.org/) – Es una biblioteca Python basado en
+línea de comandos para ejecutar aplicaciones o tareas administrativas locales
+o remotas través de [SSH](https://es.wikipedia.org/wiki/Secure_Shell)
 
 - - -
 
@@ -177,8 +262,10 @@ repositorios privados de forma gratuita (pero limitados)
 
 * [pyqt](https://wiki.python.org/moin/PyQt) – Biblioteca para crear interfaces
 gráficas de escritorio usando Qt 4.x o Qt 5.x
+
 * [PySide](https://wiki.qt.io/PySide) – Biblioteca para crear interfaces gráficas
 de escritorio usando Qt.
+
 * [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
 Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
 
@@ -188,14 +275,21 @@ Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
 
 * [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
 línea de comandos desde Python.
-* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de infraestructuras y despliegue de aplicaciones.
-* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
+
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de
+infraestructuras y despliegue de aplicaciones.
+
+* [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la
+biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
 
 - - -
 
 ## Blog posts
 
-* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - Este post te ayudará a entender qué sucede internamente cuando se realizan tareas comunes como crear variables o llamar a una función.
+* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - 
+Este post te ayudará a entender qué sucede internamente cuando se realizan tareas
+comunes como crear variables o llamar a una función.
+
 * [Open Sourcing a Python Project The Right Way (inglés)](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/) –
 Pasos para hacer tu proyecto open source de la mejor manera.
 
