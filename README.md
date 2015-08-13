@@ -22,7 +22,7 @@
 ### Paquetes básicos
 
 * [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el
-cómputo numeŕico. Permite definir arreglos y matrices numéricas
+cómputo numérico. Permite definir arreglos y matrices numéricas
 multidimensionales y realizar operaciones sobre estos.
 
 * [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de
@@ -40,7 +40,7 @@ implementado totalmente en Python.
 
 * [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos
 que se ha convertido en el estándar de facto en Python, provee capacidad de
-gráficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y 
+graficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y 
 servidores de aplicación web. Existe un modo especial de IPython que se
 integra con Matplotlib.
 
