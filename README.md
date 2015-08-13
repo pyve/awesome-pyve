@@ -5,7 +5,7 @@
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
-    - [Herramientas para Gestión de Proyectos](#herramientas-para-gestión-de-proyectos)
+    - [Herramientas para gestión de Proyectos](#herramientas-para-gestión-de-proyectos)
     - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
@@ -148,7 +148,7 @@ condicionales y seguimiento paso a paso del código.
 
 - - -
 
-## Herramientas para Gestión de Proyectos
+## Herramientas para gestión de Proyectos
 
 * [Trello](https://trello.com) - Herramienta de pizarras y tarjetas para
 organizar el trabajo.
