@@ -146,6 +146,9 @@ gráficos entre otros.
 acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción 
 condicionales y seguimiento paso a paso del código.
 
+* [Lettuce](http://lettuce.it/) - Desarrollo Dirigido por Comportamientos 
+acrónimo ingles BDD: Behavior-Driven Development con *Python*.
+
 - - -
 
 ## Herramientas para gestión de proyectos
