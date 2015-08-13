@@ -5,7 +5,7 @@
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
-    - [Herramientas para Gestión de Proyectos](#herramientas-para-gestion-de-proyectos)
+    - [Herramientas para Gestión de Proyectos](#herramientas-para-gestión-de-proyectos)
     - [Recursos para el desarrollo de Backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de Bases de Datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para el desarrollo de Front-ends](#recursos-para-el-desarrollo-de-front-ends)
