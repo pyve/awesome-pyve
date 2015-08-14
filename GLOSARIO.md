@@ -9,8 +9,7 @@ Lista de términos normalmente utilizados.
 
 ## B
 
-* *buffer*: Dolor sapiente mollitia molestiae amet earum magni accusamus illo saepe. Impedit unde est maxime dignissimos maiores quaerat, voluptates dignissimos facilis nesciunt? Ab cum enim assumenda doloribus ullam consequuntur impedit. Dolore.
-* *back-end*: Dolor sapiente mollitia molestiae amet earum magni accusamus illo saepe. Impedit unde est maxime dignissimos maiores quaerat, voluptates dignissimos facilis nesciunt? Ab cum enim assumenda doloribus ullam consequuntur impedit. Dolore.
+* *BDD*: Desarrollo dirigido por comportamientos (acrónimo inglés BDD: Behavior-Driven Development). [Introducción a BDD – Traducción del original de Dan North](https://oscarzaratetravelling.wordpress.com/2013/07/01/introduccion-a-bdd-tradduccion-del-original-de-dan-north/)
 
 ## C
 

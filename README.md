@@ -102,6 +102,8 @@ limpio y pragmático
         * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
           Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
 
+        * [Lettuce y Django](http://lettuce.it/recipes/django-lxml.html) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos con *Django*.
+
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
@@ -145,6 +147,9 @@ gráficos entre otros.
 * [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python*
 acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción 
 condicionales y seguimiento paso a paso del código.
+
+* [Lettuce](http://lettuce.it/) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos 
+con *Python*.
 
 - - -
 
