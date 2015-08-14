@@ -102,6 +102,8 @@ limpio y pragmático
         * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
           Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
 
+        * [Lettuce y Django](http://lettuce.it/recipes/django-lxml.html) - Desarrollo Dirigido por Comportamientos acrónimo ingles BDD: Behavior-Driven Development con *Django*.
+
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
