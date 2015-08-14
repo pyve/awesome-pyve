@@ -9,7 +9,7 @@ Lista de términos normalmente utilizados.
 
 ## B
 
-* *[BDD](#BDD)*: Desarrollo dirigido por comportamientos (acrónimo inglés BDD: Behavior-Driven Development). [Introducción a BDD – Traducción del original de Dan North](https://oscarzaratetravelling.wordpress.com/2013/07/01/introduccion-a-bdd-tradduccion-del-original-de-dan-north/)
+* *BDD*: Desarrollo dirigido por comportamientos (acrónimo inglés BDD: Behavior-Driven Development). [Introducción a BDD – Traducción del original de Dan North](https://oscarzaratetravelling.wordpress.com/2013/07/01/introduccion-a-bdd-tradduccion-del-original-de-dan-north/)
 
 ## C
 
