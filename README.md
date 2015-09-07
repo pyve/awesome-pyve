@@ -79,15 +79,15 @@ limpio y pragmático
     * Tutoriales
 
         * [django start](https://www.djangoproject.com/start/) - Tutorial Django
-          (en inglés)
+          *(en inglés)*
 
         * [Write your first Django app](https://docs.djangoproject.com/en/1.8/intro/tutorial01/) - Programe tu
-          primera aplicación con Django(en inglés)  
+          primera aplicación con Django *(en inglés)*
 
-        * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) - Tutorial Django
-          (en español)
+        * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) -
+          Tutorial Django *(en español)*
           
-        * [Python Django Starter Kit] (http://code.techandstartup.com/django/) - Conjunto de tutoriales 
+        * [Python Django Starter Kit](http://code.techandstartup.com/django/) - Conjunto de tutoriales 
           prácticos enfocado en casos de uso básicos en construcción de aplicaciones web *(en inglés)*
 
     * Complementos para Django   
