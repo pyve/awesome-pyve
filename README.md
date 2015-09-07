@@ -86,6 +86,9 @@ limpio y pragmático
 
         * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) - Tutorial Django
           (en español)
+          
+        * [Python Django Starter Kit] (http://code.techandstartup.com/django/) - Conjunto de tutoriales 
+          prácticos enfocado en casos de uso básicos en construcción de aplicaciones web *(en inglés)*
 
     * Complementos para Django   
 
