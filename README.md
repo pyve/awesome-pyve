@@ -222,6 +222,11 @@ de bases de datos para [SQLAlchemy][sqlalchemy].
 
 [sqlalchemy]: http://www.sqlalchemy.org/
 
+### Otras bibliotecas útiles
+
+* [Records](https://github.com/kennethreitz/records) – Records es una biblioteca simple pero 
+poderosa para hacer consultas SQL (puras) a bases de datos Postgres.
+
 - - -
 
 ## Recursos para el desarrollo de [front-ends](https://es.wikipedia.org/wiki/Front-end_y_back-end)
