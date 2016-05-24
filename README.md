@@ -114,12 +114,15 @@ construir aplicaciones web.
 un framework web general. Sus principios son la simplicidad, minimalismo, 
 documentación, velocidad, confiabilidad y apertura.
 
-  * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
-    RESTful usando RAML.
+* [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
+RESTful usando RAML.
 
-  * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API
-    RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL
-    para escritura. 
+* [Nefertari](https://nefertari.readthedocs.org/) - Framework para API
+RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL
+para escritura. 
+
+* [web.py](http://webpy.org/) - Es un micro framework tan simple como potente, desarrollado originalmente por [Aaron Swartz](https://es.wikipedia.org/wiki/Aaron_Swartz).
+web.py trata de ser un framework lo menos intrusivo posible, es "un framework anti framework".
 
 - - -
 
