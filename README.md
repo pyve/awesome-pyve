@@ -1,6 +1,7 @@
 ## Recursos compartidos vía la comunidad de Python Venezuela
 
 - Índice:
+    - [Recursos para aprender y estudiar Python](#recursos-para-aprender-y-estudiar-python)
     - [Análisis científico con Python](#análisis-científico-con-python)
     - [Frameworks basados en Python](#frameworks-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
@@ -17,11 +18,21 @@
 
 - - -
 
+## Recursos para aprender y estudiar Python
+
+### Libros
+
+* [Dive into Python 3](https://www.diveinto.org/python3/) - Es el libro ideal
+  para quien quiera aprender Python pero ya sabe programar. Comienza presentando
+  un programa completo escrito en Python el cual analiza parte a parte en la
+  medida en la que explica los elementos de Python. El finalizar, el lector
+  podrá entender claramente todo el programa.
+
 ## Análisis científico con Python
 
 ### Paquetes básicos
 
-* [Numpy](http://www.numpy.org/) - es el paquete fundamental en python para el
+* [Numpy](http://www.numpy.org/) - Es el paquete fundamental en python para el
 cómputo numérico. Permite definir arreglos y matrices numéricas
 multidimensionales y realizar operaciones sobre estos.
 
@@ -40,7 +51,7 @@ implementado totalmente en Python.
 
 * [Matplotlib](http://matplotlib.org/) - es un paquete de gráficos científicos
 que se ha convertido en el estándar de facto en Python, provee capacidad de
-graficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y 
+graficación 2D y 3D en diversos formatos, entornos de interfaces gráficas, y
 servidores de aplicación web. Existe un modo especial de IPython que se
 integra con Matplotlib.
 
@@ -51,7 +62,7 @@ de gran escala *(en inglés)*.
 ### Extensiones
 
 * [Scikits](http://scikits.appspot.com/scikits) - Los scikits son paquetes extra
-de Scipy que proveen funcionalidad mas específica. scikit-image para 
+de Scipy que proveen funcionalidad mas específica. scikit-image para
 procesamiento de imágenes y scikit-learn para aprendizaje automático y minería
 de datos son dos de los mas destacados.
 
@@ -62,7 +73,7 @@ materiales sobre las herramientas del ecosistema científico de Python.
 
 * [Software Carpentry](https://software-carpentry.org/) -es una organización de
 voluntarios sin fines de lucro cuyos miembros enseñan destrezas informáticas
-básicas a investigadores. En la sección 
+básicas a investigadores. En la sección
 [lecciones](https://software-carpentry.org/lessons.html) se encuentra excelente
 material de buenas prácticas de desarrollo y Python, y otras herramientas como
 bases de datos y sistemas de control de versiones.
@@ -86,14 +97,14 @@ limpio y pragmático
 
         * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) -
           Tutorial Django *(en español)*
-          
-        * [Python Django Starter Kit](http://code.techandstartup.com/django/) - Conjunto de tutoriales 
+
+        * [Python Django Starter Kit](http://code.techandstartup.com/django/) - Conjunto de tutoriales
           prácticos enfocado en casos de uso básicos en construcción de aplicaciones web *(en inglés)*
 
-    * Complementos para Django   
+    * Complementos para Django
 
         * [django-rest-framework](http://www.django-rest-framework.org/) - Framework para
-          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones) 
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
           basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
 
         * [django-rest-framework-gis](https://github.com/djangonauts/django-rest-framework-gis) -
@@ -111,7 +122,7 @@ limpio y pragmático
 construir aplicaciones web.
 
 * [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es
-un framework web general. Sus principios son la simplicidad, minimalismo, 
+un framework web general. Sus principios son la simplicidad, minimalismo,
 documentación, velocidad, confiabilidad y apertura.
 
 * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
@@ -119,7 +130,7 @@ RESTful usando RAML.
 
 * [Nefertari](https://nefertari.readthedocs.org/) - Framework para API
 RESTful que usa ElasticSearch para la lectura y MongoDB o PostgreSQL
-para escritura. 
+para escritura.
 
 * [web.py](http://webpy.org/) - Es un micro framework tan simple como potente desarrollado originalmente por [Aaron Swartz](https://es.wikipedia.org/wiki/Aaron_Swartz).
 web.py trata de ser un framework lo menos intrusivo posible, es "un framework anti framework".
@@ -130,11 +141,11 @@ web.py trata de ser un framework lo menos intrusivo posible, es "un framework an
 
 ### Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)
 
-* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) - 
+* [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) -
 Herramientas para establecer comunicación vía puerto serial con arduino a través
 de Python *(en inglés)*.
 
-* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) - 
+* [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) -
 17 videotutoriales para manejar arduino con Python *(en inglés)*.
 
 ### Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)
@@ -151,10 +162,10 @@ soporte para código, texto enriquecido, expresiones matemáticas, generador de
 gráficos entre otros.
 
 * [pdb](https://docs.python.org/2/library/pdb.html/) - Depurador de *Python*
-acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción 
+acrónimo ingles pdb: Python Debugger. Soporta punto de interrupción
 condicionales y seguimiento paso a paso del código.
 
-* [Lettuce](http://lettuce.it/) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos 
+* [Lettuce](http://lettuce.it/) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos
 con *Python*.
 
 - - -
@@ -193,7 +204,7 @@ para manejar peticiones HTTP.
 Redis
 
 * [Zato](https://zato.io) - Middleware basado en Python y servidor de
-aplicaciones para ESB (Enterprise Service Bus), SOA, REST, APIs, e 
+aplicaciones para ESB (Enterprise Service Bus), SOA, REST, APIs, e
 integraciones con la nube.
 
 - - -
@@ -215,8 +226,8 @@ para *MySQL* desde *Python*.
 
 ### Herramientas y Mapeadores Objeto-Relacionales
 
-* [SQLAlchemy][sqlalchemy] - SQLAlchemy es un 
-[ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para python que incluye soporte 
+* [SQLAlchemy][sqlalchemy] - SQLAlchemy es un
+[ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para python que incluye soporte
 para SQLite, MySQL, PostgreSQL, Oracle, MS SQL, entre otros que facilita la
 programación orientada a objetos con los motores base de datos relacionales *(en inglés)*
 
@@ -227,7 +238,7 @@ de bases de datos para [SQLAlchemy][sqlalchemy].
 
 ### Otras bibliotecas útiles
 
-* [Records](https://github.com/kennethreitz/records) – Records es una biblioteca simple pero 
+* [Records](https://github.com/kennethreitz/records) – Records es una biblioteca simple pero
 poderosa para hacer consultas SQL (puras) a bases de datos Postgres.
 
 - - -
@@ -302,7 +313,7 @@ biblioteca de procesamiento de imágenes mas utilizada en proyectos Python.
 
 ## Blog posts
 
-* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) - 
+* [Drastically Improve Your Python: Understanding Python's Execution Model (inglés)](http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/) -
 Este post te ayudará a entender qué sucede internamente cuando se realizan tareas
 comunes como crear variables o llamar a una función.
 
