@@ -10,6 +10,7 @@
     - [Recursos para el desarrollo de backends](#recursos-para-el-desarrollo-de-backends)
     - [Recursos para el manejo de bases de datos](#recursos-para-el-manejo-de-bases-de-datos)
     - [Recursos para el desarrollo de front-ends](#recursos-para-el-desarrollo-de-front-ends)
+    - [Recursos para poner a pruebas sistemas](#recursos-para-poner-a-pruebas-sistemas)
     - [Recursos para el despliegue de aplicaciones](#recursos-para-el-despliegue-de-aplicaciones)
     - [Servicios para el control de versiones](#servicios-para-el-control-de-versiones)
     - [Recursos para crear interfaces gráficas](#recursos-para-crear-interfaces-gráficas)
@@ -114,7 +115,8 @@ limpio y pragmático
           Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
 
         * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
-          Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
+
+Recordings are processed and sent to the requester of the recordin          Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
 
         * [Lettuce y Django](http://lettuce.it/recipes/django-lxml.html) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos con *Django*.
 
@@ -257,6 +259,13 @@ para el desarrollo de aplicaciones web responsivas
 * [PureCSS](http://purecss.io/) – Es un conjunto de módulos CSS muy pequeño que
 se usa para desarrollar aplicaciones web responsivas. A diferencia de Bootstrap
 y Foundation, PureCSS no contiene ningún módulo Javascript.
+
+- - -
+
+## Recursos para poner a pruebas sistemas
+
+* [aioload](https://github.com/sonic182/aioload) - Pruebas de carga asíncronas
+mínimas y rápidas con aiohttp + pandas para dibujar los gráficos.
 
 - - -
 
