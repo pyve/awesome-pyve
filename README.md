@@ -122,6 +122,27 @@ limpio y pragmático
 * [Flask](http://flask.pocoo.org/) – Flask es un micro framework que sirve para
 construir aplicaciones web.
 
+    * Tutoriales
+
+        * [Flask Quickstart](http://flask.pocoo.org/docs/1.0/quickstart/) - Tutorial Flask
+          *(en inglés)*
+
+    * Complementos para Flask
+
+        * [Flask-RESTful](https://flask-restful.readthedocs.io/) - Framework para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
+
+        * [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) - Librería ORM para
+          desarrollar en Flask *(en inglés)*.
+
+        * [Flask-Admin](https://flask-admin.readthedocs.io/en/latest/) - Librería la cual resuelve 
+          el aburrido problema de construir una interfaz de administrador sobre un modelo de datos 
+          existente al desarrollar en Flask *(en inglés)*.
+
+        * [Flask-Security](https://flask-security.readthedocs.io/) - Librería la cual le permite 
+          agregar rápidamente mecanismos de seguridad comunes a su aplicación Flask *(en inglés)*.
+
 * [Pyramid](http://www.pylonsproject.org/projects/pyramid/about) - Pyramid es
 un framework web general. Sus principios son la simplicidad, minimalismo,
 documentación, velocidad, confiabilidad y apertura.
