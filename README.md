@@ -38,14 +38,14 @@ cómputo numérico. Permite definir arreglos y matrices numéricas
 multidimensionales y realizar operaciones sobre estos.
 
 * [Scipy](http://www.scipy.org/) - La biblioteca SciPy es una colección de
-algortimos numéricos y cajas de herramientas para dominios específicos que
+algoritmos numéricos y cajas de herramientas para dominios específicos que
 incluyen procesamiento de señales, optimización, estadística y mucho mas.
 
 * [Pandas](http://pandas.pydata.org/) - Biblioteca de alto rendimiento y simple
 de usar para realizar análisis y modelado de datos *(en inglés)*.
 
 * [SymPy](http://www.sympy.org/) - es una biblioteca para matemática simbólica.
-Tiene el objetivo de convertirse en un sistema completo de algebra computacional
+Tiene el objetivo de convertirse en un sistema completo de álgebra computacional
 implementado totalmente en Python.
 
 ### Gráficos
@@ -96,7 +96,7 @@ limpio y pragmático
         * [Write your first Django app](https://docs.djangoproject.com/en/1.8/intro/tutorial01/) - Programe tu
           primera aplicación con Django *(en inglés)*
 
-        * [Escribe tu primera aplicacón con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) -
+        * [Escribe tu primera aplicación con Django](http://djangotutorial.readthedocs.org/es/1.8/index.html) -
           Tutorial Django *(en español)*
 
         * [Python Django Starter Kit](http://code.techandstartup.com/django/) - Conjunto de tutoriales
@@ -114,9 +114,8 @@ limpio y pragmático
         * [django-model-utils](https://django-model-utils.readthedocs.org/en/latest/) -
           Utilidades para simplificar el uso de modelos en *Django (en inglés)* .
 
-        * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) -
-
-Recordings are processed and sent to the requester of the recordin          Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
+        * [celery](http://celery.readthedocs.org/en/latest/django/first-steps-with-django.html) - 
+          Tareas asincrónicas distribuidas en tiempo real con *Django (en inglés)* .
 
         * [Lettuce y Django](http://lettuce.it/recipes/django-lxml.html) - [BDD](GLOSARIO.md#b) Desarrollo dirigido por comportamientos con *Django*.
 
@@ -144,16 +143,16 @@ web.py trata de ser un framework lo menos intrusivo posible, es "un framework an
 ### Bibliotecas para el desarrollo con [Arduino](https://www.arduino.cc/)
 
 * [Arduino y Python](http://playground.arduino.cc/Interfacing/Python) -
-Herramientas para establecer comunicación vía puerto serial con arduino a través
+Herramientas para establecer comunicación vía puerto serial con Arduino a través
 de Python *(en inglés)*.
 
 * [Arduino y Python Videos](http://playground.arduino.cc/Interfacing/Python) -
-17 videotutoriales para manejar arduino con Python *(en inglés)*.
+17 videotutoriales para manejar Arduino con Python *(en inglés)*.
 
 ### Bibliotecas para el desarrollo con [Raspberry Pi](https://www.raspberrypi.org/)
 
 * [Raspberry Pi Teach](https://www.raspberrypi.org/resources/teach/) - Recursos
-para aprender a programar Raspberry Py con python *(en inglés)*.
+para aprender a programar Raspberry Py con Python *(en inglés)*.
 
 - - -
 
@@ -199,7 +198,7 @@ partir de repositorios GitHub.
 * [celery](http://www.celeryproject.org/) - Biblioteca para el manejo de tareas
 asincrónicas mediante mensajes distribuidos en tiempo real.
 
-* [requests](http://docs.python-requests.org/en/latest/) – Una hermosa biblioteca
+* [requests](http://docs.python-requests.org/en/latest/) – Una hermosa biblioteca
 para manejar peticiones HTTP.
 
 * [rq](http://python-rq.org/) – Biblioteca para implementar colas de tareas usando
@@ -303,16 +302,16 @@ gráficas de escritorio usando Qt 4.x o Qt 5.x
 de escritorio usando Qt.
 
 * [python-gtk3](http://python-gtk-3-tutorial.readthedocs.org/en/latest/) –
-Biblioteca para crear interfaces gráficas de escritorio usango Gtk+ 3
+Biblioteca para crear interfaces gráficas de escritorio usando Gtk+ 3
 
 - - -
 
 ## Otros recursos útiles
 
-* [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
+* [click](http://click.pocoo.org/4/) – Click es una biblioteca para manejar la
 línea de comandos desde Python.
 
-* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de
+* [SaltStack](http://saltstack.com/community/) – Herramienta para gestión de
 infraestructuras y despliegue de aplicaciones.
 
 * [pillow](https://python-pillow.github.io/) - El fork amistoso de PIL, es la
