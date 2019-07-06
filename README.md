@@ -147,6 +147,25 @@ construir aplicaciones web.
 un framework web general. Sus principios son la simplicidad, minimalismo,
 documentación, velocidad, confiabilidad y apertura.
 
+    * Tutoriales
+
+        * [Quick Tutorial for Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/) - Tutorial Pyramid
+          *(en inglés)*
+
+    * Complementos para Pyramid
+
+        * [Extending Pyramid](https://trypyramid.com/extending-pyramid.html) - Más de 470 paquetes Pyramid 
+          disponibles para extender sus funcionalidades a través de complementos y entornos de desarrollo de 
+          Pyramid. *(en inglés)*.
+
+        * [pyramid_sacrud](https://pyramid-sacrud.readthedocs.io/) - Librería la cual construye una interfaz de 
+          administrador sobre un modelo de datos existente al desarrollar en Pyramid y trabaja con varios 
+          backends *(en inglés)*.
+
+        * [pyramid-restful-framework](https://pyramid-restful-framework.readthedocs.io/) - Framework para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer) *(en inglés)*.
+
 * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
 RESTful usando RAML.
 
