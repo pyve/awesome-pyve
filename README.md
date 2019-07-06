@@ -4,6 +4,7 @@
     - [Recursos para aprender y estudiar Python](#recursos-para-aprender-y-estudiar-python)
     - [Análisis científico con Python](#análisis-científico-con-python)
     - [Frameworks basados en Python](#frameworks-basados-en-python)
+    - [CMS basados en Python](#cms-basados-en-python)
     - [Hardware libre con Python](#hardware-libre-con-python)
     - [Herramientas para desarrollo y depuración de código](#herramientas-para-desarrollo-y-depuración-de-código)
     - [Herramientas para gestión de proyectos](#herramientas-para-gestión-de-proyectos)
@@ -175,6 +176,108 @@ para escritura.
 
 * [web.py](http://webpy.org/) - Es un micro framework tan simple como potente desarrollado originalmente por [Aaron Swartz](https://es.wikipedia.org/wiki/Aaron_Swartz).
 web.py trata de ser un framework lo menos intrusivo posible, es "un framework anti framework".
+
+- - -
+
+## [CMS](https://es.wikipedia.org/wiki/Sistema_de_gestión_de_contenidos) basados en Python
+
+### Frameworks para desarrollo de CMS
+
+* [Plone](https://plone.com/) - es el más longevo, poderoso, flexible, seguro y premiado sistema de gestión de contenido escrito en Python.
+
+    * Tutoriales
+
+        * [Plone Documentation](https://docs.plone.org) - Documentación de Plone *(en inglés)*.
+
+        * [Mastering Plone Development](https://training.plone.org/5/mastering-plone/index.html) - Desarrollo profesional en Plone *(en inglés)*.
+
+        * [Plone Theming](https://training.plone.org/5/theming/index.html) - Desarrollo de temas en Plone *(en inglés)*.
+
+        * [JavaScript For Plone Developers](https://training.plone.org/5/javascript/index.html) - Programe JavaScript en sus desarrollos en Plone *(en inglés)*.
+
+        * [Automating Plone Deployment](https://training.plone.org/5/deployment/index.html) - Implementando Plone con Ansible y OpsWorks *(en inglés)*.
+
+        * [Plone Deployments With Amazon OpsWorks](https://training.plone.org/5/deployment/opsworks/index.html) - Implementaciones Plone con Amazon OpsWorks *(en inglés)*.
+
+        * [“Through-The-Web” Plone Customization](https://training.plone.org/5/ttw/index.html) - Personalización de Plone a través de la web *(en inglés)*.
+
+        * [Plone Training Solr](https://training.plone.org/5/solr/index.html) - IPotencia la búsqueda de sitios como Twitter, las tiendas de Apple e iTunes, Wikipedia, Netflix y más usando Apache Solr se basa en Lucene y es el motor de búsqueda de código abierto para empresas *(en inglés)*.
+
+        * [Plone Workflow](https://training.plone.org/5/workflow/index.html) - Entedimiento y personalizar los flujo de trabajo se utiliza en Plone *(en inglés)*.
+
+        * [Angular SDK para Plone](https://training.plone.org/5/angular/index.html) - Creación de aplicaciones Angular 4 utilizando la API de REST de Plone *(en inglés)*.
+
+        * [React](https://training.plone.org/5/react/index.html) - Conozca las bases de React, Redux y React-Router *(en inglés)*.
+
+        * [Volto](https://training.plone.org/5/volto/index.html) - Aprende cómo crear tu propio sitio web basado en Volto y React *(en inglés)*.
+
+        * [Migrating Content with Transmogrifier](https://training.plone.org/5/transmogrifier/index.html) - Migración del contenido del sitio web a un sitio Plone usando Transmogrifier *(en inglés)*.
+
+        * [How to build your own webframework from scracth](https://training.plone.org/5/advanced-python/index.html) - Migración del contenido del sitio web a un sitio Plone usando Transmogrifier *(en inglés)*.
+
+        * [GatsbyJS](https://training.plone.org/5/gatsby/index.html) - Migración del contenido del sitio web a un sitio Plone usando Transmogrifier *(en inglés)*.
+
+    * Complementos para Plone
+
+        * [awesome-plone](https://github.com/collective/awesome-plone) - Awesome list for Plone *(en inglés)*.
+
+        * [plone.restapi](https://plonerestapi.readthedocs.io/) - Framework para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer)  *(en inglés)*.
+
+* [django-cms](https://www.django-cms.org/) - es el sistema de gestión de contenido basado en Django framework.
+
+    * Tutoriales
+
+        * [Tutorials — django cms documentation](http://docs.django-cms.org/en/latest/introduction/) - Tutorial de django-cms *(en inglés)*.
+
+        * [django cms documentation](http://docs.django-cms.org/en/latest/) - Documentación de django-cms *(en inglés)*.
+
+    * Complementos para django-cms
+
+        * [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms) - Awesome list for django-cms *(en inglés)*.
+
+* [Wagtail](https://wagtail.io/) - Wagtail, el poderoso CMS rapido, elegante y open source para sitios web modernos basado en Django framework.
+
+    * Tutoriales
+
+        * [Getting started — Wagtail documentation](http://docs.wagtail.io/en/v2.5.1/getting_started/index.html) - Primeros pasos de Wagtail CMS *(en inglés)*.
+
+        * [Wagtail documentation](http://docs.wagtail.io/en/) - Documentación de Wagtail CMS *(en inglés)*.
+
+    * Complementos para Wagtail
+
+        * [awesome-wagtail](https://github.com/springload/awesome-wagtail) - Awesome list for Wagtail CMS *(en inglés)*.
+
+* [mezzanine](http://mezzanine.jupo.org/) - es una plataforma de administración de contenido potente, consistente y flexible construido con el framework de Django.
+
+    * Tutoriales
+
+        * [OVERVIEW — mezzanine documentation](http://mezzanine.jupo.org/docs/overview.html) - Descripción general *(en inglés)*.
+
+        * [mezzanine documentation](http://mezzanine.jupo.org/docs/) - Documentación de mezzanine *(en inglés)*.
+
+    * Complementos para mezzanine
+
+        * [Projects for "mezzanine"](https://pypi.org/search/?q=mezzanine) - lista de proyectos mezzanine en PyPI *(en inglés)*.
+
+* [Quokka CMS](http://quokkaproject.org/) – es una plataforma de gestión de contenido flexible desarrollada por Python, Flask y MongoDB.
+
+    * Tutoriales
+
+        * [Flexible, extensible, small CMS powered by Flask and MongoDB](https://pythonawesome.com/flexible-extensible-small-cms-powered-by-flask-and-mongodb/) - un CMS flexible, extensible y pequeño con tecnología de Flask y MongoDB *(en inglés)*
+
+    * Complementos para Quokka CMS
+
+        * [Projects for "Quokka"](https://pypi.org/search/?q=Quokka) - lista de proyectos Quokka en PyPI *(en inglés)*.
+
+* [kotti](http://kotti.pylonsproject.org) - es un framework de aplicaciones web Pythonico de alto nivel. Incluye un Sistema de gestión de contenido extensible llamado Kotti CMS.
+
+    * Tutoriales
+
+        * [Tutorial — Kotti documentation](https://kotti.readthedocs.io/en/latest/first_steps/tutorial.html) - Tutorial de Kotti *(en inglés)*.
+
+        * [Kotti documentation](https://kotti.readthedocs.io/) - Documentación de Kotti *(en inglés)*.
 
 - - -
 
