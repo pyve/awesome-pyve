@@ -167,6 +167,32 @@ documentación, velocidad, confiabilidad y apertura.
           desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
           basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer) *(en inglés)*.
 
+* [Zope](https://www.zope.org/) - Zope es un servidor de aplicaciones web gratuito y de código abierto escrito en el lenguaje de programación orientado a objetos "Python". Desde su lanzamiento en 1998, Zope continúa creciendo en muchas aplicaciones, marcos, bibliotecas y herramientas distintas.
+
+    * Tutoriales
+
+        * [Zope Products Tutorial](https://zope.readthedocs.io/en/latest/zdgbook/Products.html) - Tutorial de Productos (Addon) en Zope *(en inglés)*.
+
+        * [Zope Documentation](https://www.zope.org/documentation/index.html) - Documentación de Zope *(en inglés)*.
+
+    * Complementos para Zope
+
+        * [Extending Zope](https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Zope) - Más de 1660 paquetes Zope en sus diversas versiones (Zope2, Zope3 y Zope4) disponibles para extender sus funcionalidades a través de complementos y entornos de desarrollo de Zope. *(en inglés)*.
+
+        * [Download Zope Products](https://old.zope.org/Products/index.html) - La página ANTIGUA de Productos Zope en las versiones Zope2 y Zope3 disponibles en ese entonces, para extender sus funcionalidades a través de complementos y entornos de desarrollo de Zope. *(en inglés)*.
+
+        * [zope.sqlalchemy](https://pypi.org/project/zope.sqlalchemy/) - Librería ORM para
+          desarrollar en Zope usando librería SQLAlchemy *(en inglés)*.
+
+        * [lazr.restful](https://pypi.org/project/lazr.restful/) - Framework para
+          desarrollar [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer) *(en inglés)*.
+
+        * [plone.rest](https://pypi.org/project/plone.rest/) - le permite usar verbos HTTP 
+          como GET, POST, PUT, DELETE, etc en Plone sobre Zope para desarrollar 
+          [API](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+          basado en [REST](https://es.wikipedia.org/wiki/Representational_State_Transfer) *(en inglés)*.
+
 * [Ramses](https://ramses.readthedocs.org/) - Biblioteca que genera una API
 RESTful usando RAML.
 
